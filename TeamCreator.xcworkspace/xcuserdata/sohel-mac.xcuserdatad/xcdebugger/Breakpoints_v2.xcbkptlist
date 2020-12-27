@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "991148E6-9BE8-4B4B-AFB6-8B705B02C60B"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC1D9AF6-6B6B-4B81-AB66-210B5ABD6DFC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TeamCreator/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "299"
+            endingLineNumber = "299"
+            landmarkName = "getMatcheList(showLoader:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BC1D9AF6-6B6B-4B81-AB66-210B5ABD6DFC - c4e2c160a71e993e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TeamCreator.HomeVC.getMatcheList(showLoader: Swift.Bool) -&gt; ()"
+                  moduleName = "TeamCreator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sohel-mac/Downloads/TeamCreator/TeamCreator/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "299"
+                  endingLineNumber = "299"
+                  offsetFromSymbolStart = "1140">
+               </Location>
+               <Location
+                  uuid = "BC1D9AF6-6B6B-4B81-AB66-210B5ABD6DFC - 7f8d4cd15d961697"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TeamCreator.HomeVC.getMatcheList(showLoader: Swift.Bool) -&gt; ()"
+                  moduleName = "TeamCreator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sohel-mac/Downloads/TeamCreator/TeamCreator/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "300"
+                  endingLineNumber = "300"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
