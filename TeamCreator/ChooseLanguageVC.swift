@@ -51,9 +51,6 @@ class ChooseLanguageVC: UIViewController {
 //            print(element.title)
 //
 //        }
-        
-        
-        //
         self.selectedIndex = 1
         self.documenValues = Array(1...110)
     }
@@ -89,7 +86,7 @@ extension ChooseLanguageVC {
                 xx = indexxx
             }
             print("Captain -----> \(self.arrSelectedPlayers[xx].title)")
-            for valuee in 0...9 { // just to demonstrate what happens
+            for valuee in 0...9 { 
                 for (row, _) in self.arrSelectedPlayers.enumerated() {
                     self.arrSelectedPlayers[row].isCaptain = false
                     self.arrSelectedPlayers[row].isViceCaptain = false
